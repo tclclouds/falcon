@@ -1,5 +1,5 @@
 # falcon
 
-agent
+falcon plugin
 
-cfg.json
+monitor_proces scripts
